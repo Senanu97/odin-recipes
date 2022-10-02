@@ -1,0 +1,38 @@
+#pstulist{
+    display: table;
+    margin: 0 auto;
+    list-style: square;
+}
+#pstolist{
+    list-style-position: inside;
+}
+.ribulist{
+    display: table;
+    margin: 0 auto;
+    list-style: circle;
+}
+.ribolist{
+    list-style-position: inside;
+}
+#homepage{
+    background-image: url(/img/background3-min.jpg);
+    background-size: cover;
+    width: 90%;
+}
+#hmpg{
+    background-image: url(/img/background3-min.jpg);
+    background-size: cover;   
+    width: 90%;
+}
+#homepage2{
+    background-image: url(/img/background3-min.jpg);
+    background-size: cover;   
+    width: 90%;
+}
+body{
+    color: rgb(0, 0, 0);
+}
+a{
+    font-style: italic;
+    color: black;
+}
