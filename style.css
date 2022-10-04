@@ -17,8 +17,12 @@
 #homepage{
     background-image: url(/img/background3-min.jpg);
     background-size: cover;
-    width: 90%;
 }
+.headr{
+    text-align: center;
+    text-transform: uppercase;
+}
+
 #hmpg{
     background-image: url(/img/background3-min.jpg);
     background-size: cover;   
