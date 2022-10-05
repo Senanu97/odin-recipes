@@ -17,6 +17,8 @@
 #homepage{
     background-image: url(img/background3-min.jpg);
     background-size: cover;
+    height: auto;
+    width: fit-content;
 }
 .headr{
     text-align: center;
@@ -27,11 +29,13 @@
     background-image: url(img/background3-min.jpg);
     background-size: cover;   
     width: 90%;
+    height: auto;
 }
 #homepage2{
     background-image: url(img/background3-min.jpg);
     background-size: cover;   
     width: 90%;
+    height: auto;
 }
 body{
     color: rgb(0, 0, 0);
