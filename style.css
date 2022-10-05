@@ -15,7 +15,7 @@
     list-style-position: inside;
 }
 #homepage{
-    background-image: url(../../odin-recipes/img/background3-min.jpg);
+    background-image: url(img/background3-min.jpg);
     background-size: cover;
 }
 .headr{
@@ -24,7 +24,7 @@
 }
 
 #hmpg{
-    background-image: url(../img/background3-min.jpg);
+    background-image: url(img/background3-min.jpg);
     background-size: cover;   
     width: 90%;
 }
