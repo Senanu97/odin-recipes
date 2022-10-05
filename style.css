@@ -18,7 +18,7 @@
     background-image: url(img/background3-min.jpg);
     background-size: cover;
     height: auto;
-    width: fit-content;
+    width: 90%;
 }
 .headr{
     text-align: center;
